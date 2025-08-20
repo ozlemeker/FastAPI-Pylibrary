@@ -1,0 +1,8 @@
+pytest #(aşama1)
+httpx #(aşama2)
+fastapi
+uvicorn
+pydantic
+#Önemli : 
+#pip freeze > requirements.txt
+#yeni kurulan her kütüphaneyi oto olarak buraya ekler
